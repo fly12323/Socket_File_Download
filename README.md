@@ -28,7 +28,7 @@
 ## server client是不存在SSL的，也就是数据是明文传输
 流量包是`NoSSL.pcapng`
 
-## server1 client1存在SSL，也就是数据经过加密传输
+## server_SSL client_SSL存在SSL，也就是数据经过加密传输
 流量包是`SSL.pcapng`
 
 ## 流量包抓取的注意点
